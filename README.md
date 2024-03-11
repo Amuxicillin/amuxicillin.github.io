@@ -1,2 +1,3 @@
-# amuxicillin.github.io
-Amuxicillin
+# Headline
+
+> An awesome project.
